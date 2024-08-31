@@ -64,3 +64,8 @@
 - Fonksiyonlara gönderilen parametreleri kontrol edebilir
 
 # 100% Test Covarage# ice-cream-app
+
+
+
+![icecreamapp](https://github.com/user-attachments/assets/38a4b61d-f06a-4d61-9885-5f114cfc4578)
+
